@@ -37,3 +37,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // avoid re-reading the config on every call
 // keep defaults in sync with the manifest
 // avoid re-reading the config on every call
+// guard against empty input
